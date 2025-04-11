@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.dbmdl
+*.db
+*.pdb
+
+# Build results
+bin/
+obj/
+
+# Angular
+node_modules/
+dist/
+
+# Sistema
+.DS_Store
+Thumbs.db
